@@ -1,3 +1,5 @@
+// выполнение пункта № 3
+
 package obstacles;
 
 import competitors.*;
