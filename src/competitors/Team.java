@@ -1,3 +1,5 @@
+// выполнение пункта № 2
+
 package competitors;
 
 public class Team {
