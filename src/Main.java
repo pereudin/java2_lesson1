@@ -1,3 +1,5 @@
+// выполнение практического задания к уроку № 1
+
 import competitors.*;
 import obstacles.*;
 
